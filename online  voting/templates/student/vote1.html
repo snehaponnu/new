@@ -1,0 +1,54 @@
+{% extends 'student/studentindex.html' %}
+{% block body %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="">
+
+<table class="table table-danger">
+<tr>
+    <td> Election Name</td>
+    <td><label for="select2"></label>
+      <select name="select2" id="select2" class="form-control">
+           {% for i in data3 %}
+          <option value="{{ i.election_id }}">{{ i.election_name }}</option>
+          {% endfor %}
+      </select></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><input type="submit" name="button" id="button" value="View" class="btn btn-light"/></td>
+    </tr>
+</table>
+
+<table class="table table-danger">
+  <tr>
+    <th scope="row">Sl.No</th>
+       <td>election</td>
+    <td>Post</td>
+    <td>status</td>
+
+  </tr>
+   {%  for i in data1 %}
+  <tr>
+
+      <td>{{ loop.index }}</td>
+  <td>{{ i.election_name }}</td>
+    <td>&nbsp;{{ i.post_name }}</td>
+      {% if i.status == 'pending' %}
+    <td><a href="/vote2/{{ i.post_id }}#a">Candidate</a></td>
+  {% else %}
+         <td>{{ i.status }}</td>
+
+{#  <td>no candidate</td>#}
+  {% endif %}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

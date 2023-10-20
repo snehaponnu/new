@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/templates/admin/view student.html" description="&lt;table class=&quot;table table-danger&quot;&gt;" line="12" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a86e62e-2ee4-4907-8726-409c8d10bad5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/online__voting$online__voting.coverage" NAME="online  voting Coverage Results" MODIFIED="1692332905145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="view post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/candidate/view post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="81" lean-forward="false" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/new index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1743">
+              <caret line="83" column="63" lean-forward="false" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="online  voting.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/online  voting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15897">
+              <caret line="757" column="45" lean-forward="true" selection-start-line="757" selection-start-column="45" selection-end-line="757" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1681295001678" expanded="true" signature="665:701" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="665:714" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="665:728" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="665:729" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="665:742" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="665:745" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="2021:2061" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2077" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2079" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2089" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2090" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2105" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2021:2107" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="2279:2291" ph="insert into a... " />
+                <marker date="1681295001678" expanded="true" signature="2279:2310" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2279:2343" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2279:2344" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2279:2346" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2509:2533" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="2969:3021" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2969:3041" ph="insert into election... " />
+                <marker date="1681295001678" expanded="true" signature="2969:3050" ph="insert into course... " />
+                <marker date="1681295001678" expanded="true" signature="2969:3052" ph="insert into election... " />
+                <marker date="1681295001678" expanded="true" signature="3621:3711" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="3621:3712" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="3621:3714" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="3876:3890" ph="select * fro... n" />
+                <marker date="1681295001678" expanded="true" signature="3876:3898" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="4281:4309" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="4281:4310" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="4281:4325" ph="insert into post... " />
+                <marker date="1681295001678" expanded="true" signature="4281:4334" ph="insert into post... " />
+                <marker date="1681295001678" expanded="true" signature="4281:4336" ph="insert into post... " />
+                <marker date="1681295001678" expanded="true" signature="4502:4540" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="4502:4548" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="4502:4550" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="4815:4855" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="5464:5495" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5506" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5517" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5518" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5530" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5543" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5558" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5569" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5464:5571" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="5731:5745" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="5731:5751" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="6140:6192" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="6140:6193" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="6140:6195" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="6367:6401" ph="insert into department... " />
+                <marker date="1681295001678" expanded="true" signature="6367:6409" ph="insert into department... " />
+                <marker date="1681295001678" expanded="true" signature="7040:7114" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="7263:7279" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="7263:7290" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="7263:7311" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="7263:7334" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="7263:7336" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="7269:7279" ph="insert into notification... " />
+                <marker date="1681295001678" expanded="true" signature="8011:8077" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="8011:8088" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="8011:8124" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="8568:8665" ph="update cours... " />
+                <marker date="1681295001678" expanded="true" signature="8568:8666" ph="update cours... " />
+                <marker date="1681295001678" expanded="true" signature="8568:8674" ph="update cours... " />
+                <marker date="1681295001678" expanded="true" signature="8568:8677" ph="update cours... " />
+                <marker date="1681295001678" expanded="true" signature="8574:8628" ph="insert into election... " />
+                <marker date="1681295001678" expanded="true" signature="8574:8665" ph="insert into election... " />
+                <marker date="1681295001678" expanded="true" signature="8848:8868" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="8848:8886" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="8848:8894" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="8848:8896" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="8925:8949" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="9409:9429" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="9409:9524" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="9698:9752" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="10370:10417" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10447" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10450" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10473" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10504" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10512" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10544" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10370:10546" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="10716:10768" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="10801:10821" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="11099:11119" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="11099:11168" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="11440:11464" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="11440:11476" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="11440:11482" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="11440:11484" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="11782:11806" ph="select * fro... department" />
+                <marker date="1681295001678" expanded="true" signature="12094:12139" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="12439:12461" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="12738:12765" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="12738:12794" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="12738:12795" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="12738:12801" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="12738:12803" ph="update elect... " />
+                <marker date="1681295001678" expanded="true" signature="13111:13159" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="13626:13881" ph="SELECT `stud... voting" />
+                <marker date="1681295001678" expanded="true" signature="13626:13924" ph="SELECT `stud... voting" />
+                <marker date="1681295001678" expanded="true" signature="13957:13979" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="14010:14028" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="14010:14056" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="14209:14387" ph="SELECT * FRO... result" />
+                <marker date="1681295001678" expanded="true" signature="14209:14431" ph="SELECT * FRO... result" />
+                <marker date="1681295001678" expanded="true" signature="14464:14486" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="14516:14534" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="14516:14552" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="14516:14562" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="14853:14952" ph="select * fro... notification" />
+                <marker date="1681295001678" expanded="true" signature="15249:15305" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="15601:15664" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="15601:15670" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="15907:15953" ph="delete from " />
+                <marker date="1681295001678" expanded="true" signature="16202:16216" ph="SELECT * FRO... P" />
+                <marker date="1681295001678" expanded="true" signature="16202:16273" ph="SELECT * FRO... post" />
+                <marker date="1681295001678" expanded="true" signature="16571:16743" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="16571:16751" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="16571:16753" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="17209:17230" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="18097:18148" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="18097:18176" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="18097:18184" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="18210:18281" ph="update candi... " />
+                <marker date="1681295001678" expanded="true" signature="18674:18744" ph="update candi... " />
+                <marker date="1681295001678" expanded="true" signature="19480:19510" ph="insert into login... " />
+                <marker date="1681295001678" expanded="true" signature="19480:19521" ph="insert into login... " />
+                <marker date="1681295001678" expanded="true" signature="19480:19545" ph="insert into login... " />
+                <marker date="1681295001678" expanded="true" signature="19480:19547" ph="insert into login... " />
+                <marker date="1681295001678" expanded="true" signature="19571:19688" ph="insert into student... " />
+                <marker date="1681295001678" expanded="true" signature="19847:19867" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="20218:20308" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="20218:20313" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="20218:20337" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="20616:20630" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="20616:20703" ph="select * fro... notification" />
+                <marker date="1681295001678" expanded="true" signature="20981:20995" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="20981:21003" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="20981:21026" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="21294:21308" ph="select * fro... notification" />
+                <marker date="1681295001678" expanded="true" signature="21294:21312" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="21294:21341" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="21294:21388" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="21294:21393" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="21294:21396" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="21294:21398" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22027:22104" ph="insert into login... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22160" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22172" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22173" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22222" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22235" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22251" ph="insert into election... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22253" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22130:22302" ph="insert into candidate... " />
+                <marker date="1681295001678" expanded="true" signature="22699:22721" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="22751:22769" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22751:22822" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22751:22823" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22751:22849" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22751:22858" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22751:22861" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="22881:22988" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="23132:23146" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="23132:23154" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="23187:23258" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="23511:23534" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="23511:23650" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="23511:23652" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="23869:23908" ph="select * fro... vote" />
+                <marker date="1681295001678" expanded="true" signature="23869:23930" ph="select * fro... vote" />
+                <marker date="1681295001678" expanded="true" signature="23869:23932" ph="select * fro... vote" />
+                <marker date="1681295001678" expanded="true" signature="23869:23933" ph="select * fro... vote" />
+                <marker date="1681295001678" expanded="true" signature="23869:23936" ph="select * fro... vote" />
+                <marker date="1681295001678" expanded="true" signature="24081:24107" ph="insert into values" />
+                <marker date="1681295001678" expanded="true" signature="24081:24111" ph="insert into voting... " />
+                <marker date="1681295001678" expanded="true" signature="24081:24119" ph="insert into voting... " />
+                <marker date="1681295001678" expanded="true" signature="24081:24145" ph="insert into voting... " />
+                <marker date="1681295001678" expanded="true" signature="24081:24146" ph="insert into voting... " />
+                <marker date="1681295001678" expanded="true" signature="24081:24149" ph="insert into voting... " />
+                <marker date="1681295001678" expanded="true" signature="24591:24609" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="24642:24664" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="24694:25045" ph="SELECT * FRO... voting" />
+                <marker date="1681295001678" expanded="true" signature="24694:25080" ph="SELECT * FRO... voting" />
+                <marker date="1681295001678" expanded="true" signature="24694:25081" ph="SELECT * FRO... voting" />
+                <marker date="1681295001678" expanded="true" signature="24694:25094" ph="SELECT votin... voting" />
+                <marker date="1681295001678" expanded="true" signature="24694:25146" ph="SELECT votin... voting" />
+                <marker date="1681295001678" expanded="true" signature="25146:25148" ph="SELECT * FRO... result" />
+                <marker date="1681295001678" expanded="true" signature="25613:25635" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="25666:25684" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="26265:26439" ph="update stude... " />
+                <marker date="1681295001678" expanded="true" signature="26534:26586" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="26619:26639" ph="select * fro... course" />
+                <marker date="1681295001678" expanded="true" signature="27181:27273" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="27421:27510" ph="update login... " />
+                <marker date="1681295001678" expanded="true" signature="28352:28429" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="28352:28433" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="28352:28458" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="28352:28482" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="28352:28485" ph="select * fro... student" />
+                <marker date="1681295001678" expanded="true" signature="28757:28828" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="28757:28829" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="29133:29242" ph="select * fro... candidate" />
+                <marker date="1681295001678" expanded="true" signature="29694:29712" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="29745:29767" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="29816:30276" ph="SELECT votin... voting" />
+                <marker date="1681295001678" expanded="true" signature="30759:30781" ph="select * fro... election" />
+                <marker date="1681295001678" expanded="true" signature="30814:30832" ph="select * fro... post" />
+                <marker date="1681295001678" expanded="true" signature="31383:31475" ph="select * fro... login" />
+                <marker date="1681295001678" expanded="true" signature="31623:31712" ph="update login... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="candidate home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/candidate/candidate home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="candidateindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/candidate/candidateindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view live results.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/candidate/view live results.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/regindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>view_applied_candidates</find>
+      <find>approve_candidates</find>
+      <find>add_student</find>
+      <find>add_election#a</find>
+      <find>APPRO</find>
+      <find>Edu</find>
+      <find>edu</find>
+      <find>vote1</find>
+      <find>view_live_result</find>
+      <find>servi</find>
+      <find>view_live_results</find>
+      <find>your vot</find>
+      <find>your</find>
+      <find>Firmament mo</find>
+      <find>au</find>
+      <find>Firmament</find>
+      <find>your vo</find>
+      <find>about</find>
+      <find>our</find>
+      <find>Our Speciality</find>
+      <find>ser</find>
+      <find>css</find>
+      <find>scss</find>
+      <find>img</find>
+      <find>view_course</find>
+      <find>view_student</find>
+      <find>help</find>
+      <find>logou</find>
+      <find>sign in</find>
+      <find>sign</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/static/register_temp/css</replace>
+      <replace>vendor</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/candidate/vote3.html" />
+        <option value="$PROJECT_DIR$/static/election/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/admin/edit course1.html" />
+        <option value="$PROJECT_DIR$/templates/admin/approve candidates.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/change password.html" />
+        <option value="$PROJECT_DIR$/templates/student/view_profile.html" />
+        <option value="$PROJECT_DIR$/templates/student/register.html" />
+        <option value="$PROJECT_DIR$/templates/student/view notification.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/submit.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add_department.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit election.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/view profile.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add course.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add student.html" />
+        <option value="$PROJECT_DIR$/templates/admin/change password.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit course.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit student.html" />
+        <option value="$PROJECT_DIR$/templates/student/change password.html" />
+        <option value="$PROJECT_DIR$/templates/student/edit student.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view live result.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/view candidate.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/view applied candidates.html" />
+        <option value="$PROJECT_DIR$/templates/student/apply.html" />
+        <option value="$PROJECT_DIR$/templates/student/view live results.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add election.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add notification.html" />
+        <option value="$PROJECT_DIR$/templates/admin/admin home.html" />
+        <option value="$PROJECT_DIR$/templates/student/student home.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/candidate home.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/view live results.html" />
+        <option value="$PROJECT_DIR$/templates/student/vote1.html" />
+        <option value="$PROJECT_DIR$/templates/admin/adminindex.html" />
+        <option value="$PROJECT_DIR$/templates/new index.html" />
+        <option value="$PROJECT_DIR$/templates/blog.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view course.html" />
+        <option value="$PROJECT_DIR$/online  voting.py" />
+        <option value="$PROJECT_DIR$/templates/admin/view department.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view student.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view notification.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view election.html" />
+        <option value="$PROJECT_DIR$/templates/admin/add post.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view post.html" />
+        <option value="$PROJECT_DIR$/templates/student/view election.html" />
+        <option value="$PROJECT_DIR$/templates/student/view post.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view applied candidates.html" />
+        <option value="$PROJECT_DIR$/templates/student/vote2.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/view post.html" />
+        <option value="$PROJECT_DIR$/templates/student/studentindex.html" />
+        <option value="$PROJECT_DIR$/templates/candidate/candidateindex.html" />
+        <option value="$PROJECT_DIR$/templates/regindex.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-29" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="online  voting">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="online  voting">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="templates">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="online  voting">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="templates">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="student">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="online  voting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="register_temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\online  voting\templates" />
+      <recent name="C:\Users\user\PycharmProjects\online  voting\static\election\img" />
+      <recent name="C:\Users\user\PycharmProjects\online  voting\static\election\img\news" />
+      <recent name="C:\Users\user\PycharmProjects\online  voting\static\election\img\courses" />
+      <recent name="C:\Users\user\PycharmProjects\online  voting\static\election\img\testmonial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.online  voting">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="online  voting" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="online  voting" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="online  voting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/online  voting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.online  voting" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a86e62e-2ee4-4907-8726-409c8d10bad5" name="Default" comment="" />
+      <created>1674882574950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674882574950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-29" y="0" width="1938" height="1048" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24221267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30464327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>363</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>606</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>375</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>531</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>501</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>240</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/online  voting.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/student/vote1.html</url>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/student/view live results.html</url>
+          <line>1</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/admin/add notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/admin home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="49" lean-forward="false" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/change password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/view_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/view notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/student home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa5040.29676/online  voting.py" />
+    <entry file="file://$PROJECT_DIR$/templates/candidate/view candidate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/change password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/view profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/change password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa5040.13975/DBConnection.py" />
+    <entry file="file://$PROJECT_DIR$/templates/admin/view live result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/view live results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/election/img/form-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/election/img/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/election/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/election/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/adminindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1945" column="32" lean-forward="false" selection-start-line="1944" selection-start-column="31" selection-end-line="1945" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog" />
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="36" lean-forward="false" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_department.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view department.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="123" lean-forward="false" selection-start-line="24" selection-start-column="123" selection-end-line="24" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view election.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="67" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="28" column="138" lean-forward="false" selection-start-line="28" selection-start-column="138" selection-end-line="28" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="24" column="80" lean-forward="false" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/approve candidates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/view election.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/view post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="26" column="67" lean-forward="false" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/apply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online  voting/online  voting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="545" column="4" lean-forward="false" selection-start-line="545" selection-start-column="4" selection-end-line="545" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/view applied candidates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="128" lean-forward="false" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view applied candidates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="124" lean-forward="false" selection-start-line="33" selection-start-column="124" selection-end-line="33" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/vote1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/vote2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="67" lean-forward="false" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/student/studentindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41349">
+          <caret line="1969" column="68" lean-forward="false" selection-start-line="1966" selection-start-column="31" selection-end-line="1969" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/regindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/new index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="83" column="63" lean-forward="false" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/view post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="81" lean-forward="false" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/candidateindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/view live results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/candidate/candidate home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online  voting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15897">
+          <caret line="757" column="45" lean-forward="true" selection-start-line="757" selection-start-column="45" selection-end-line="757" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1681295001678" expanded="true" signature="665:701" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="665:714" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="665:728" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="665:729" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="665:742" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="665:745" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="2021:2061" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2077" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2079" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2089" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2090" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2105" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2021:2107" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="2279:2291" ph="insert into a... " />
+            <marker date="1681295001678" expanded="true" signature="2279:2310" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2279:2343" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2279:2344" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2279:2346" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2509:2533" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="2969:3021" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2969:3041" ph="insert into election... " />
+            <marker date="1681295001678" expanded="true" signature="2969:3050" ph="insert into course... " />
+            <marker date="1681295001678" expanded="true" signature="2969:3052" ph="insert into election... " />
+            <marker date="1681295001678" expanded="true" signature="3621:3711" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="3621:3712" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="3621:3714" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="3876:3890" ph="select * fro... n" />
+            <marker date="1681295001678" expanded="true" signature="3876:3898" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="4281:4309" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="4281:4310" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="4281:4325" ph="insert into post... " />
+            <marker date="1681295001678" expanded="true" signature="4281:4334" ph="insert into post... " />
+            <marker date="1681295001678" expanded="true" signature="4281:4336" ph="insert into post... " />
+            <marker date="1681295001678" expanded="true" signature="4502:4540" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="4502:4548" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="4502:4550" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="4815:4855" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="5464:5495" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5506" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5517" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5518" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5530" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5543" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5558" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5569" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5464:5571" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="5731:5745" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="5731:5751" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="6140:6192" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="6140:6193" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="6140:6195" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="6367:6401" ph="insert into department... " />
+            <marker date="1681295001678" expanded="true" signature="6367:6409" ph="insert into department... " />
+            <marker date="1681295001678" expanded="true" signature="7040:7114" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="7263:7279" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="7263:7290" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="7263:7311" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="7263:7334" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="7263:7336" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="7269:7279" ph="insert into notification... " />
+            <marker date="1681295001678" expanded="true" signature="8011:8077" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="8011:8088" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="8011:8124" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="8568:8665" ph="update cours... " />
+            <marker date="1681295001678" expanded="true" signature="8568:8666" ph="update cours... " />
+            <marker date="1681295001678" expanded="true" signature="8568:8674" ph="update cours... " />
+            <marker date="1681295001678" expanded="true" signature="8568:8677" ph="update cours... " />
+            <marker date="1681295001678" expanded="true" signature="8574:8628" ph="insert into election... " />
+            <marker date="1681295001678" expanded="true" signature="8574:8665" ph="insert into election... " />
+            <marker date="1681295001678" expanded="true" signature="8848:8868" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="8848:8886" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="8848:8894" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="8848:8896" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="8925:8949" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="9409:9429" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="9409:9524" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="9698:9752" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="10370:10417" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10447" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10450" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10473" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10504" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10512" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10544" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10370:10546" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="10716:10768" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="10801:10821" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="11099:11119" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="11099:11168" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="11440:11464" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="11440:11476" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="11440:11482" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="11440:11484" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="11782:11806" ph="select * fro... department" />
+            <marker date="1681295001678" expanded="true" signature="12094:12139" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="12439:12461" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="12738:12765" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="12738:12794" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="12738:12795" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="12738:12801" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="12738:12803" ph="update elect... " />
+            <marker date="1681295001678" expanded="true" signature="13111:13159" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="13626:13881" ph="SELECT `stud... voting" />
+            <marker date="1681295001678" expanded="true" signature="13626:13924" ph="SELECT `stud... voting" />
+            <marker date="1681295001678" expanded="true" signature="13957:13979" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="14010:14028" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="14010:14056" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="14209:14387" ph="SELECT * FRO... result" />
+            <marker date="1681295001678" expanded="true" signature="14209:14431" ph="SELECT * FRO... result" />
+            <marker date="1681295001678" expanded="true" signature="14464:14486" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="14516:14534" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="14516:14552" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="14516:14562" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="14853:14952" ph="select * fro... notification" />
+            <marker date="1681295001678" expanded="true" signature="15249:15305" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="15601:15664" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="15601:15670" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="15907:15953" ph="delete from " />
+            <marker date="1681295001678" expanded="true" signature="16202:16216" ph="SELECT * FRO... P" />
+            <marker date="1681295001678" expanded="true" signature="16202:16273" ph="SELECT * FRO... post" />
+            <marker date="1681295001678" expanded="true" signature="16571:16743" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="16571:16751" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="16571:16753" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="17209:17230" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="18097:18148" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="18097:18176" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="18097:18184" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="18210:18281" ph="update candi... " />
+            <marker date="1681295001678" expanded="true" signature="18674:18744" ph="update candi... " />
+            <marker date="1681295001678" expanded="true" signature="19480:19510" ph="insert into login... " />
+            <marker date="1681295001678" expanded="true" signature="19480:19521" ph="insert into login... " />
+            <marker date="1681295001678" expanded="true" signature="19480:19545" ph="insert into login... " />
+            <marker date="1681295001678" expanded="true" signature="19480:19547" ph="insert into login... " />
+            <marker date="1681295001678" expanded="true" signature="19571:19688" ph="insert into student... " />
+            <marker date="1681295001678" expanded="true" signature="19847:19867" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="20218:20308" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="20218:20313" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="20218:20337" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="20616:20630" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="20616:20703" ph="select * fro... notification" />
+            <marker date="1681295001678" expanded="true" signature="20981:20995" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="20981:21003" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="20981:21026" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="21294:21308" ph="select * fro... notification" />
+            <marker date="1681295001678" expanded="true" signature="21294:21312" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="21294:21341" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="21294:21388" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="21294:21393" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="21294:21396" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="21294:21398" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22027:22104" ph="insert into login... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22160" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22172" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22173" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22222" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22235" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22251" ph="insert into election... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22253" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22130:22302" ph="insert into candidate... " />
+            <marker date="1681295001678" expanded="true" signature="22699:22721" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="22751:22769" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22751:22822" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22751:22823" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22751:22849" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22751:22858" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22751:22861" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="22881:22988" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="23132:23146" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="23132:23154" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="23187:23258" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="23511:23534" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="23511:23650" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="23511:23652" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="23869:23908" ph="select * fro... vote" />
+            <marker date="1681295001678" expanded="true" signature="23869:23930" ph="select * fro... vote" />
+            <marker date="1681295001678" expanded="true" signature="23869:23932" ph="select * fro... vote" />
+            <marker date="1681295001678" expanded="true" signature="23869:23933" ph="select * fro... vote" />
+            <marker date="1681295001678" expanded="true" signature="23869:23936" ph="select * fro... vote" />
+            <marker date="1681295001678" expanded="true" signature="24081:24107" ph="insert into values" />
+            <marker date="1681295001678" expanded="true" signature="24081:24111" ph="insert into voting... " />
+            <marker date="1681295001678" expanded="true" signature="24081:24119" ph="insert into voting... " />
+            <marker date="1681295001678" expanded="true" signature="24081:24145" ph="insert into voting... " />
+            <marker date="1681295001678" expanded="true" signature="24081:24146" ph="insert into voting... " />
+            <marker date="1681295001678" expanded="true" signature="24081:24149" ph="insert into voting... " />
+            <marker date="1681295001678" expanded="true" signature="24591:24609" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="24642:24664" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="24694:25045" ph="SELECT * FRO... voting" />
+            <marker date="1681295001678" expanded="true" signature="24694:25080" ph="SELECT * FRO... voting" />
+            <marker date="1681295001678" expanded="true" signature="24694:25081" ph="SELECT * FRO... voting" />
+            <marker date="1681295001678" expanded="true" signature="24694:25094" ph="SELECT votin... voting" />
+            <marker date="1681295001678" expanded="true" signature="24694:25146" ph="SELECT votin... voting" />
+            <marker date="1681295001678" expanded="true" signature="25146:25148" ph="SELECT * FRO... result" />
+            <marker date="1681295001678" expanded="true" signature="25613:25635" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="25666:25684" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="26265:26439" ph="update stude... " />
+            <marker date="1681295001678" expanded="true" signature="26534:26586" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="26619:26639" ph="select * fro... course" />
+            <marker date="1681295001678" expanded="true" signature="27181:27273" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="27421:27510" ph="update login... " />
+            <marker date="1681295001678" expanded="true" signature="28352:28429" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="28352:28433" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="28352:28458" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="28352:28482" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="28352:28485" ph="select * fro... student" />
+            <marker date="1681295001678" expanded="true" signature="28757:28828" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="28757:28829" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="29133:29242" ph="select * fro... candidate" />
+            <marker date="1681295001678" expanded="true" signature="29694:29712" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="29745:29767" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="29816:30276" ph="SELECT votin... voting" />
+            <marker date="1681295001678" expanded="true" signature="30759:30781" ph="select * fro... election" />
+            <marker date="1681295001678" expanded="true" signature="30814:30832" ph="select * fro... post" />
+            <marker date="1681295001678" expanded="true" signature="31383:31475" ph="select * fro... login" />
+            <marker date="1681295001678" expanded="true" signature="31623:31712" ph="update login... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
